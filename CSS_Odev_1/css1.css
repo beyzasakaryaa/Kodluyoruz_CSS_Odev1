@@ -1,0 +1,33 @@
+h2{
+    color: palevioletred;
+    text-align: center;
+    font-size: 35px;
+}
+h4{
+    color: lightcoral;
+    text-align: center;
+    font-size: 25px;
+}
+h5{
+    color: yellowgreen;
+    text-align: center;
+    font-size: 18px;
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+ul{
+    list-style-position:inside;
+    list-style-type: circle;
+}
+.image-container {
+
+    text-align: center;
+}
+body{
+    background-color:rgb(255, 253, 240) ;
+}
+
